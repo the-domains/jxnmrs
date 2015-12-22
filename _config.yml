@@ -1,0 +1,28 @@
+name: jxnmrs
+favicon: null
+layout_spectrum: 0.8680275788065046
+typography_spectrum: 0.7227402222342789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7338103135116398
+  lightness: 0.8405859833583236
+  saturation: 0.052991112461313605
+  rhythmicContrast: 0.31080600852146745
+purpose: []
